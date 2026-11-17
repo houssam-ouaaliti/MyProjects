@@ -67,3 +67,7 @@ Ensure you have the necessary dependencies installed (`numpy`, `matplotlib`, `tk
     ```
 
 **Project Report:** The file `Rapport Projet Mastermind.pdf` contains the official project report requested by the school. It includes a detailed analysis of the results, strategy performance.
+
+## Skills Demonstrated
+
+Algorithm design and strategy comparison · constraint-based search-space reduction · statistical performance analysis (NumPy, Matplotlib) · GUI development (Tkinter) · unit testing · pair programming and technical reporting

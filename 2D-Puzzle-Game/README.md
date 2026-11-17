@@ -32,3 +32,7 @@ java -cp bin:src front.Main
 ## Important Notes
 
 - **Window Size:** Make sure to expand the game window to see all game elements properly. The game experience is optimized for a larger display.
+
+## Skills Demonstrated
+
+Object-oriented design in Java · 2D physics and collision detection · GUI development (Swing / AWT) · unit testing · teamwork in a group of 8 · project documentation and user manual (see `livrables/`)
