@@ -19,3 +19,6 @@ src-gen/
 *.xml
 *.zip
 
+
+# Maven build descriptors must be tracked
+!pom.xml
